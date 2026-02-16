@@ -49,3 +49,27 @@ public class InterFace {
 
 
 }
+
+interface Telusko5{
+    default void course(){
+        System.out.println("This is Telusko course");
+    }
+    static  void ai(){
+        System.out.println("It is static method of interface");
+    }
+}
+class Ai implements Telusko5{
+
+}
+
+public class InterFace {
+    static void main(String[] args) {
+        Telusko5 t = new Ai();
+        t.course();
+//        t.ai();
+        Telusko5.ai();
+
+
+    }
+}
+
