@@ -2,7 +2,11 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+<<<<<<< HEAD
       <module fileurl="file://$PROJECT_DIR$/Exception.iml" filepath="$PROJECT_DIR$/Exception.iml" />
+=======
+      <module fileurl="file://$PROJECT_DIR$/Java.iml" filepath="$PROJECT_DIR$/Java.iml" />
+>>>>>>> 9f93e5d7b2fb6f7a0dd9b7b4d595d24790faa319
     </modules>
   </component>
 </project>
