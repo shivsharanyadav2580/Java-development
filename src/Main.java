@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 //TIP To <b>Run</b> code, press <shortcut actionId="Run"/> or
 // click the <icon src="AllIcons.Actions.Execute"/> icon in the gutter.
 public class Main {
@@ -12,4 +13,8 @@ public class Main {
             System.out.println("i = " + i);
         }
     }
+=======
+void main(String[] args) {
+    System.out.println("Hello");
+>>>>>>> 79e5ae3e5df4fdf80d9fadcf6bb40f04b30c5697
 }
